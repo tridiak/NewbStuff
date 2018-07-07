@@ -3,6 +3,7 @@
 # The associated feat file must match the feat name exactly with '.txt' appended.
 # Any extra feat info is followed by a colon. The colon MUST follow immediately after the feat's name. Extra attributes are tab spaced. All feat info must be on a single line. Multi-line is not supported.
 # Currently, only alternate spellings are supported.
+# Hello. Git test stuff
 # alternate names require 'alt=' prefix
 # The parser will also strip the '_' from any alternate name when doing comparisons. This saves typing in lots of alternatives.
 # Example : when doing comparison check for 'armor_proficiency_heavy', it will also check for 'armorproficiencyheavy'
